@@ -1,0 +1,50 @@
+.center{
+    text-align: center;
+
+}
+.center2{
+    text-align: center;
+    display: flex;
+    margin-left: 50vh;
+    margin-top: 100px;
+
+}
+.es1{
+    margin-left: 10px;
+}
+
+.es2{
+    margin-left: 10px;
+}
+
+.es3{
+    margin-left: 10px;
+}
+
+.baleia{
+    background-color: white;
+    text-align: justify;
+    margin: 50px 200px;
+    border: 1px solid;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+
+.onça{
+    background-color: white;
+    text-align: justify;
+    margin: 50px 200px;
+    border: 1px solid;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.dino{
+    background-color: white;
+    text-align: justify;
+    margin: 50px 200px;
+    border: 1px solid;
+    padding: 30px;
+    border-radius: 10px;
+}
